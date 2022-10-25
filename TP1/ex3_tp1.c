@@ -1,5 +1,5 @@
 /* TP1 - exercice 3
-SP- 09/22 - Depssaement
+SP- 09/22 - Depassement
 */
 
 /*----------------------------------------------------------*/
@@ -16,7 +16,7 @@ SP- 09/22 - Depssaement
 int main()
 {
 	/*--------------------------------------*/
-	/* Déclaration des variables*/
+	/* DÃ©claration des variables*/
 
 	uint8_t int1 = 255;
 	uint8_t int2 = 259;
