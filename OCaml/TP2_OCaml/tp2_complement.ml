@@ -1,4 +1,6 @@
-(*TP 2 OCAML - Complement*)
+(*TP 2 OCAML - Complement
+VERET Salif MP2I
+12/01/2023*)
 
 (*EXERCICE 1*)
 (*1*)
