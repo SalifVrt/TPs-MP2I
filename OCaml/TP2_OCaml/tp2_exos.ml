@@ -1,5 +1,5 @@
 (*TP 2 OCAML 
-VERET SALIF MP2I
+VERET Salif MP2I
 05/01/2023*)
 
 (*Exercice 1*)
