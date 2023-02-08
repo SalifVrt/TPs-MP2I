@@ -8,3 +8,9 @@ TP 2 C - Structures de contrôle - Booléens <br>
 TP 3 C - Tableaux et chaînes de caractères <br>
 TP 4 C - Fonctions et modules <br>
 TP 5 C - Structures de données <br>
+
+
+TP 1 OCaml - Types et instructions <br>
+TP 2 OCaml - Filtrage et fonctions <br>
+TP 3 OCaml - Récursivité <br>
+TP 4 OCaml - Listes <br>
