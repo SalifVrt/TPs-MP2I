@@ -14,3 +14,4 @@ TP 1 OCaml - Types et instructions <br>
 TP 2 OCaml - Filtrage et fonctions <br>
 TP 3 OCaml - Récursivité <br>
 TP 4 OCaml - Listes <br>
+TP 5 OCaml - Chaînes de caractères et tableaux <br>
