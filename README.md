@@ -1,6 +1,6 @@
 # TPs-MP2I
 Tous les TPs d'informatique en langage C et OCaml en classe de MP2I au lycée Clemenceau, Nantes (2022-2023) <br>
-(uniquement les programmes et les sujets sont déposés)
+(mes programmes et les sujets sont déposés, avec les corrections quand c'est possible)
 
 
 TP 1 C - Types - Entrées/Sorties standard <br>
