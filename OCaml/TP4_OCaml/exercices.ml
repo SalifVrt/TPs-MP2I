@@ -115,3 +115,16 @@ let ocsmin liste =
 
 let ls4 = [1;2;3;4;1;1;6;1];;
 ocsmin ls4;;
+
+let ocsmin2 liste =
+(*Beaucoup mieux comme ça !*)
+	let rec aux l m cpt =
+		match l with
+			|[] -> (m, cpt)
+			|x :: tl -> match x with
+					|x when x = m -> aux tl m (cpt+1)
+					|x when x < m -> aux tl x 1
+					|_ -> aux tl m cpt
+	in aux (List.tl liste) (List.hd liste) 1;;
+
+ocsmin2 ls4;;
